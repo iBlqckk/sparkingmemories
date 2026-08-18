@@ -86,10 +86,10 @@ function Index() {
               <p>
                 Toda mi vida le he visto salir temprano, preparado para trabajar y dar lo mejor de usted,
                 dispuesto a arreglar lo que a otros parece imposible. Es electricista, pero lo suyo
-                va más allá de los cables: donde hay oscuridad, tú encuentras la manera de traer luz.
+                va más allá de los cables: donde hay oscuridad, usted encuentra la manera de traer luz.
               </p>
               <p>
-                Cada casa que iluminaste también sostuvo la mia. Su esfuerzo, su paciencia y esa
+                Cada casa que ilumino también sostuvo la mia. Su esfuerzo, su paciencia y esa
                 forma tan suya de no rendirse me enseño lo que significa trabajar con orgullo y
                 querer con hechos.
               </p>
