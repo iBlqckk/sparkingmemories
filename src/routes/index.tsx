@@ -196,7 +196,7 @@ function Index() {
       <footer className="border-t border-border/60 px-6 py-14 text-center">
         <Reveal>
           <p className="flex items-center justify-center gap-2 font-display text-lg text-primary">
-            <Heart className="h-4 w-4" /> Con todo mi cariño, Tu hijo Junior
+            <Heart className="h-4 w-4" /> Con todo mi cariño, tu hijo Junior
           </p>
           <p className="mt-3 text-xs tracking-[0.3em] uppercase text-muted-foreground">
             18 de agosto
