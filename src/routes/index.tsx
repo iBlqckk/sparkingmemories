@@ -32,10 +32,10 @@ export const Route = createFileRoute("/")({
 
 // EDITABLE: cambia las frases y fechas de cada foto
 const FOTOS = [
-  { src: foto1, caption: "Siempre con las manos listas", date: "En el trabajo" },
-  { src: foto2, caption: "El descanso bien merecido", date: "En la finca" },
-  { src: foto3, caption: "Nuestro equipo de siempre", date: "Padre e hijo" },
-  { src: foto4, caption: "Puro cariño y buena vibra", date: "En familia" },
+  { src: foto1, caption: "Nuestro equipo de siempre", date: "Padre e hijo" },
+  { src: foto2, caption: "Una foto juntos", date: "En la finca" },
+  { src: foto3, caption: "Siempre con las manos listas", date: "En el trabajo" },
+  { src: foto4, caption: "El descanso bien merecido", date: "En la finca" },
 ];
 
 function Index() {
@@ -84,17 +84,17 @@ function Index() {
             </h2>
             <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground sm:text-lg">
               <p>
-                Toda la vida te hemos visto salir temprano, con la caja de herramientas al hombro,
-                dispuesto a arreglar lo que a otros parece imposible. Eres electricista, pero lo tuyo
+                Toda mi vida le he visto salir temprano, preparado para trabajar y dar lo mejor de usted,
+                dispuesto a arreglar lo que a otros parece imposible. Es electricista, pero lo suyo
                 va más allá de los cables: donde hay oscuridad, tú encuentras la manera de traer luz.
               </p>
               <p>
-                Cada casa que iluminaste también sostuvo la nuestra. Tu esfuerzo, tu paciencia y esa
-                forma tan tuya de no rendirte nos enseñaron lo que significa trabajar con orgullo y
+                Cada casa que iluminaste también sostuvo la mia. Su esfuerzo, su paciencia y esa
+                forma tan suya de no rendirse me enseño lo que significa trabajar con orgullo y
                 querer con hechos.
               </p>
               <p className="text-foreground">
-                Gracias por ser el ejemplo, la energía y el corazón de esta familia.
+                Gracias por ser el ejemplo, la energía y el corazón para mi.
               </p>
             </div>
           </Reveal>
@@ -196,7 +196,7 @@ function Index() {
       <footer className="border-t border-border/60 px-6 py-14 text-center">
         <Reveal>
           <p className="flex items-center justify-center gap-2 font-display text-lg text-primary">
-            <Heart className="h-4 w-4" /> Con todo mi cariño, [tu nombre]
+            <Heart className="h-4 w-4" /> Con todo mi cariño, Tu hijo Junior
           </p>
           <p className="mt-3 text-xs tracking-[0.3em] uppercase text-muted-foreground">
             18 de agosto
